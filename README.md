@@ -1,2 +1,7 @@
-# ds-phase-1
-Data Science Bootcamp • Phase 1 • Machine Learning 
+# Data Science Bootcamp
+
+## Фаза 1️⃣ Математика и машинное обучение
+
+|№|Раздел|.|.|.|.|.|
+|-|-|-|-|-|-|-|
+|**1.1**| Теория вероятностей, статистика и А/Б тестирование ⁣⁣⁣⁣⁣⁣| [Пн](04-stat/04-01-task.ipynb)| [Вт](04-stat/04-02-task.ipynb)| [Ср](04-stat/)| [Чт](04-stat/)| [Пт](04-stat/)   |
